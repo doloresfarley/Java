@@ -1,0 +1,101 @@
+Dog Video Log 
+Brutus catches Shadow 70ms 51ms 69487 views 
+Jasmine has dinner with Shadow 74ms 70ms 28707 views 
+Chico hides from Shadow 107ms 105ms 74358 views 
+Winston plays ball with Belle 81ms 81ms 97407 views 
+Luke shares toy with Oliver 67ms 41ms 71977 views 
+Frankie hides from Oscar 85ms 76ms 72561 views 
+Jake hides from Molly 120ms 110ms 38763 views 
+Coco chases Princess 113ms 110ms 33799 views 
+Samantha plays with Casper 38ms 30ms 80274 views 
+Bentley plays ball with Fraidy 68ms 55ms 61755 views 
+Samson hides from Puffball 77ms 72ms 15361 views 
+Prince hides toy from Baby 49ms 48ms 28511 views 
+Oliver bites Lucy 67ms 40ms 56973 views 
+Jasper chases Sylvester 68ms 58ms 63381 views 
+Brady fights with Molly 107ms 91ms 761 views 
+Murphy catches Oliver 114ms 112ms 26136 views 
+Gus hides from Tiger 88ms 65ms 91101 views 
+Ellie chases Simba 86ms 68ms 80555 views 
+Jasper plays with Sam 32ms 21ms 23587 views 
+Rocco has dinner with Chole 98ms 82ms 37246 views 
+Loki chases Smokey 48ms 21ms 46953 views 
+Lucky plays ball with Molly 69ms 62ms 73172 views 
+Luna hides toy from Tiger 94ms 94ms 34201 views 
+Rocco hides from Belle 121ms 112ms 7448 views 
+Prince shares toy with Chester 62ms 60ms 4988 views 
+Bruce hides from Oliver 112ms 94ms 57940 views 
+Ace chases Oliver 47ms 42ms 51128 views 
+Lucky chases Charlie 81ms 77ms 84810 views 
+Buster fights with Chloe 36ms 34ms 47300 views 
+Bandit has dinner with Chester 52ms 25ms 90609 views 
+Bella catches Whiskers 73ms 48ms 87059 views 
+Hank hides toy from Casper 122ms 109ms 17917 views 
+Ziggy eats lunch with Misty 111ms 106ms 56463 views 
+Toby eats lunch with Casper 53ms 37ms 48229 views 
+Henry chases Kitty 73ms 67ms 86123 views 
+Scout hides from Misty 121ms 120ms 47662 views 
+Luke has dinner with Whiskers 41ms 28ms 84679 views 
+Louie bites Baby 123ms 111ms 9521 views 
+Diesel barks at Chole 116ms 91ms 53724 views 
+Buddy eats lunch with Chole 58ms 37ms 12976 views 
+Jake eats lunch with Lucy 126ms 108ms 87693 views 
+Cody plays with Sylvester 114ms 99ms 85313 views 
+Chico fights with Tigger 78ms 50ms 51848 views 
+Bear fights with Chloe 117ms 90ms 53276 views 
+Gunner barks at Kitty 73ms 73ms 27596 views 
+Bear catches Belle 63ms 59ms 56396 views 
+Shadow bites Samantha 35ms 28ms 54336 views 
+Ellie catches Chester 92ms 66ms 26075 views 
+Rusty barks at Angel 58ms 48ms 94934 views 
+Baxter has dinner with Chole 127ms 106ms 7824 views 
+King shares breakfast with Chester 52ms 32ms 39858 views 
+Chewy bites Max 32ms 8ms 89942 views 
+Coco fights with Kitty 59ms 56ms 95288 views 
+Luna plays with Whiskers 79ms 75ms 2580 views 
+Benji shares breakfast with Chloe 113ms 107ms 93017 views 
+Brady hides from Casper 56ms 45ms 57667 views 
+Gus chases Max 93ms 72ms 11368 views 
+Peanut chases Oreo 67ms 44ms 60106 views 
+Hunter bites Sylvester 87ms 63ms 9620 views 
+Benny eats lunch with Chloe 84ms 55ms 25389 views 
+King shares breakfast with Tiger 66ms 45ms 8796 views 
+Rocco plays ball with Sylvester 89ms 89ms 43592 views 
+Oreo eats lunch with Oliver 111ms 94ms 25061 views 
+Dexter hides from Kitty 52ms 30ms 77497 views 
+Brody has dinner with Belle 64ms 47ms 69831 views 
+Otis plays with Sylvester 80ms 78ms 47424 views 
+Beau fights with Kitty 99ms 91ms 31551 views 
+Copper fights with Max 54ms 31ms 39568 views 
+Koda has dinner with Cleo 33ms 7ms 14144 views 
+Xena plays ball with Sam 118ms 104ms 96718 views 
+Sam barks at Kitty 125ms 103ms 40680 views 
+Benny shares breakfast with Chloe 31ms 15ms 63294 views 
+Bruno plays ball with Kitty 129ms 111ms 14537 views 
+Toby has dinner with Chloe 81ms 61ms 50464 views 
+Lady plays with Charlie 72ms 61ms 54562 views 
+Jackson plays with Kitty 72ms 62ms 48448 views 
+Leo plays with Chester 36ms 30ms 28016 views 
+Lola barks at Sam 72ms 44ms 53357 views 
+Copper plays with Sylvester 66ms 66ms 44255 views 
+Maverick barks at Tiger 109ms 98ms 13882 views 
+Copper hides toy from Princess 84ms 75ms 2735 views 
+Charlie chases Baby 46ms 34ms 16492 views 
+Zeus bites Oliver 122ms 118ms 101 views 
+Oreo hides from Lucy 76ms 58ms 87553 views 
+Samantha hides toy from Puffball 110ms 81ms 67040 views 
+George shares breakfast with Casper 65ms 52ms 85667 views 
+Bruno eats lunch with Angel 66ms 55ms 30589 views 
+Harley catches Oliver 95ms 82ms 3932 views 
+Sam hides from Tigger 97ms 79ms 53586 views 
+Benji has dinner with Shadow 89ms 60ms 54740 views 
+Tyson plays ball with Lucy 121ms 100ms 32282 views 
+Ranger hides toy from Simba 79ms 67ms 52025 views 
+Lola barks at Oliver 34ms 34ms 17174 views 
+Finn chases Oscar 61ms 44ms 6352 views 
+Gus plays ball with Charlie 54ms 44ms 48498 views 
+Henry shares toy with Smokey 129ms 125ms 70524 views 
+Rex hides toy from Cleo 47ms 38ms 28661 views 
+Chico fights with Lady 113ms 112ms 94977 views 
+Milo bites Cleo 55ms 34ms 46189 views 
+Frankie chases Molly 63ms 53ms 39281 views 

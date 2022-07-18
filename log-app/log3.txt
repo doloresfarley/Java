@@ -1,0 +1,101 @@
+Video Log 3 
+Cat Video: Baby plays with Moose 85ms 65ms 53738 views 
+Dog Video: Mickey catches Sylvester 93ms 80ms 19815 views 
+Dog Video: Samantha plays with Oliver 111ms 108ms 54484 views 
+Sports Video: Charlie plays ball with Samson 121ms 104ms 318 views 
+Dog Video: Cooper eats lunch with Baby 51ms 45ms 34803 views 
+Cat Video: Chole meows at Jasper 67ms 48ms 16653 views 
+Dog Video: Tyson hides from Fraidy 113ms 90ms 44692 views 
+Cat Video: Chloe hisses at Henry 43ms 31ms 75062 views 
+Sports Video: Chase plays hokey with Kobe 67ms 62ms 24179 views 
+Sports Video: Bella plays ball with Charlie 35ms 8ms 38529 views 
+Sports Video: Copper plays soccer with Romeo 82ms 81ms 74355 views 
+Sports Video: Roscoe plays ball with Chewy 118ms 100ms 2306 views 
+Cat Video: Molly shares toy with Dexter 31ms 16ms 35135 views 
+Cat Video: Shadow shares lunch with Cash 98ms 70ms 14247 views 
+Cat Video: Chloe plays with Odin 67ms 62ms 70881 views 
+Cat Video: Fraidy shares lunch with Zeke 80ms 77ms 70411 views 
+Sports Video: Rudy swims with Copper 41ms 34ms 60927 views 
+Cat Video: Chester bites King 42ms 40ms 16702 views 
+Sports Video: Zeke plays hokey with Jasmine 110ms 99ms 39364 views 
+Dog Video: Mickey has dinner with Casper 103ms 101ms 35250 views 
+Cat Video: Lady catches Luna 115ms 106ms 16455 views 
+Dog Video: Dexter bites Princess 102ms 92ms 35027 views 
+Dog Video: Charlie fights with Lady 94ms 88ms 53299 views 
+Sports Video: Harley goes fishing with Rusty 35ms 20ms 30588 views 
+Dog Video: Bandit has dinner with Angel 47ms 43ms 99108 views 
+Dog Video: Coco plays ball with Fraidy 35ms 7ms 83076 views 
+Dog Video: Marley bites Simba 77ms 68ms 74933 views 
+Dog Video: Rudy chases Tiger 93ms 92ms 47879 views 
+Dog Video: Samantha shares toy with Max 87ms 59ms 41312 views 
+Cat Video: Lucy hisses at Chewy 53ms 25ms 89598 views 
+Sports Video: Coco plays volleyball with Ranger 52ms 47ms 15395 views 
+Cat Video: Simba has breakfast with Hunter 49ms 25ms 84638 views 
+Dog Video: Hank has dinner with Belle 115ms 100ms 54469 views 
+Dog Video: Brady catches Misty 73ms 63ms 92840 views 
+Cat Video: Casper meows at Rex 101ms 80ms 42803 views 
+Cat Video: Lucy hides from Lucky 37ms 22ms 34128 views 
+Dog Video: Diesel shares breakfast with Molly 42ms 37ms 93767 views 
+Dog Video: Charlie shares breakfast with Belle 77ms 58ms 51592 views 
+Sports Video: Louie rockclimbs with Oscar 119ms 113ms 19588 views 
+Cat Video: Max hisses at Rusty 101ms 101ms 58721 views 
+Sports Video: Cash skateboards with Blue 120ms 110ms 50153 views 
+Cat Video: Princess has breakfast with Cash 85ms 74ms 87305 views 
+Dog Video: Odin has dinner with Cleo 120ms 113ms 39020 views 
+Cat Video: Lucy meows at Roscoe 40ms 33ms 68500 views 
+Dog Video: Oliver catches Fraidy 103ms 103ms 19059 views 
+Dog Video: Charlie barks at Angel 71ms 49ms 32715 views 
+Sports Video: Milo plays ball with Scout 74ms 56ms 5279 views 
+Dog Video: Chester catches Baby 128ms 100ms 64863 views 
+Sports Video: Zeke plays ball with Coco 66ms 53ms 18973 views 
+Sports Video: Zeus plays quidditch with Prince 93ms 71ms 31624 views 
+Sports Video: Brutus plays quidditch with Leo 59ms 33ms 25946 views 
+Cat Video: Chloe shares lunch with Mac 88ms 85ms 56863 views 
+Cat Video: Cleo shares toy with Jackson 91ms 62ms 39229 views 
+Sports Video: Henry plays football with Prince 116ms 106ms 39352 views 
+Dog Video: Lady hides from Tigger 102ms 95ms 86611 views 
+Sports Video: Otis plays hokey with Winston 42ms 42ms 15367 views 
+Cat Video: Sam hides from Coco 117ms 116ms 15033 views 
+Cat Video: Shadow catches Coco 106ms 102ms 25765 views 
+Cat Video: Charlie hides toy from Ellie 50ms 49ms 82531 views 
+Cat Video: Molly shares toy with Toby 64ms 38ms 40814 views 
+Sports Video: Cash bikes with Max 110ms 97ms 61241 views 
+Dog Video: Tank eats lunch with Angel 60ms 46ms 49167 views 
+Sports Video: Lola goes fishing with Gunner 118ms 96ms 51853 views 
+Cat Video: Casper eats dinner with Coco 48ms 26ms 25674 views 
+Dog Video: Ziggy barks at Oreo 61ms 44ms 44361 views 
+Dog Video: Peanut has dinner with Fraidy 104ms 101ms 84801 views 
+Cat Video: Molly shares toy with Mickey 74ms 67ms 69161 views 
+Sports Video: Harley hikes with Brutus 92ms 71ms 37116 views 
+Sports Video: Luna catches for Murphy 71ms 52ms 5401 views 
+Cat Video: Oliver catches Bruno 61ms 49ms 38180 views 
+Dog Video: Buddy catches Oliver 92ms 63ms 73005 views 
+Sports Video: Harley goes fishing with Cooper 82ms 71ms 27860 views 
+Cat Video: Chester meows at Luna 52ms 27ms 83163 views 
+Sports Video: Apollo plays hokey with Bandit 53ms 25ms 45797 views 
+Dog Video: Bruno plays with Tiger 40ms 36ms 87534 views 
+Sports Video: Cooper bikes with Odin 58ms 30ms 39535 views 
+Dog Video: Simba plays with Molly 73ms 72ms 64938 views 
+Dog Video: Marley bites Angel 83ms 69ms 73537 views 
+Cat Video: Tigger pounces on Bella 57ms 44ms 47700 views 
+Dog Video: Coco shares toy with Fraidy 37ms 26ms 24456 views 
+Dog Video: Chase shares breakfast with Sam 82ms 54ms 96121 views 
+Cat Video: Max hides toy from Zeke 36ms 23ms 70120 views 
+Sports Video: King swims with Ruby 70ms 63ms 50218 views 
+Dog Video: Chester has dinner with Chester 63ms 48ms 26401 views 
+Dog Video: Apollo hides from Whiskers 72ms 56ms 38543 views 
+Cat Video: Molly pounces on Cooper 98ms 73ms 24397 views 
+Cat Video: Baby hides toy from Kobe 116ms 91ms 15132 views 
+Sports Video: Sam plays quidditch with Luke 66ms 63ms 83437 views 
+Sports Video: Bruno goes fishing with Sammy 74ms 60ms 69619 views 
+Dog Video: Blue hides toy from Oliver 77ms 77ms 93520 views 
+Sports Video: Scout plays ball with Oliver 66ms 44ms 73588 views 
+Cat Video: Molly plays ball with Bruno 31ms 16ms 33810 views 
+Cat Video: Shadow hides from Lola 60ms 38ms 36903 views 
+Dog Video: Gunner bites Cleo 85ms 80ms 83450 views 
+Cat Video: Lucy hides from Chester 102ms 97ms 72406 views 
+Cat Video: Oscar catches Marley 82ms 74ms 88876 views 
+Cat Video: Oscar fights with Winston 31ms 16ms 93915 views 
+Dog Video: Romeo barks at Puffball 39ms 12ms 81717 views 
+Dog Video: Benny has dinner with Misty 123ms 119ms 62785 views 
+Dog Video: Cody fights with Oreo 61ms 51ms 53917 views 

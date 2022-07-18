@@ -1,0 +1,201 @@
+Part 2 Output:
+Running Thread #: 0
+Running Thread #: 2
+Running Thread #: 1
+
+ Output for File /Users/dfarley/git/log-app/log2.txt
+
+Movie Sorting Category: Thread 1, Start Time: 89447870262240
+Category: Cat Title: Tiger kisses Ziggy, Movie Length: 46, Movie Watched: 32, Ratio: 0.6956521739130435, # of Views 62796
+Category: Cat Title: Princess hides toy from Samson, Movie Length: 68, Movie Watched: 41, Ratio: 0.6029411764705882, # of Views 43478
+Category: Cat Title: Lucy eats dinner with Chance, Movie Length: 61, Movie Watched: 58, Ratio: 0.9508196721311475, # of Views 95252
+
+ End Time: 89447875582878
+
+
+ Output for File /Users/dfarley/git/log-app/log3.txt
+
+Movie Sorting Category: Thread 2, Start Time: 89447874080832
+Category: Cat Title: Lucy shares lunch with Ace, Movie Length: 119, Movie Watched: 100, Ratio: 0.8403361344537815, # of Views 91644
+Category: Cat Title: Lucy catches Teddy, Movie Length: 72, Movie Watched: 43, Ratio: 0.5972222222222222, # of Views 82191
+Category: Cat Title: Shadow eats dinner with Lady, Movie Length: 30, Movie Watched: 29, Ratio: 0.9666666666666667, # of Views 87366
+
+ End Time: 89447876083637
+
+
+ Output for File /Users/dfarley/git/log-app/log1.txt
+
+Movie Sorting Category: Thread 0, Start Time: 89447875776208
+Category: Cat Title: Angel fights with Lady, Movie Length: 41, Movie Watched: 37, Ratio: 0.9024390243902439, # of Views 37560
+Category: Cat Title: Lucy plays ball with Gus, Movie Length: 66, Movie Watched: 64, Ratio: 0.9696969696969697, # of Views 34654
+Category: Cat Title: Belle shares toy with Peanut, Movie Length: 101, Movie Watched: 98, Ratio: 0.9702970297029703, # of Views 6195
+
+ End Time: 89447876164082
+
+
+Movie Sorting Title : Thread 2, Start Time: 89447876158306
+Category: Dog Title: Ace chases Casper, Movie Length: 93, Movie Watched: 76, Ratio: 0.8172043010752689, # of Views 51605
+Category: Sports Title: Apollo skateboards with Rocky, Movie Length: 32, Movie Watched: 24, Ratio: 0.75, # of Views 96591
+Category: Cat Title: Baby plays with George, Movie Length: 110, Movie Watched: 93, Ratio: 0.8454545454545455, # of Views 15622
+
+ End Time: 89447878297933
+
+
+Movie Sorting Title : Thread 0, Start Time: 89447876435109
+Category: Cat Title: Angel fights with Coco, Movie Length: 63, Movie Watched: 62, Ratio: 0.9841269841269841, # of Views 55931
+Category: Cat Title: Angel fights with Lady, Movie Length: 41, Movie Watched: 37, Ratio: 0.9024390243902439, # of Views 37560
+Category: Dog Title: Apollo eats lunch with Chloe, Movie Length: 69, Movie Watched: 64, Ratio: 0.927536231884058, # of Views 75820
+
+ End Time: 89447878363537
+
+
+Movie Sorting Title : Thread 1, Start Time: 89447875690408
+Category: Sports Title: Ace plays quidditch with Beau, Movie Length: 72, Movie Watched: 67, Ratio: 0.9305555555555556, # of Views 2090
+Category: Cat Title: Angel shares toy with Luke, Movie Length: 89, Movie Watched: 77, Ratio: 0.8651685393258427, # of Views 26359
+Category: Cat Title: Baby plays ball with Kobe, Movie Length: 43, Movie Watched: 22, Ratio: 0.5116279069767442, # of Views 24230
+
+ End Time: 89447878598297
+
+
+Movie Sorting Length : Thread 0, Start Time: 89447878422233
+Category: Dog Title: Duke hides toy from Simba, Movie Length: 128, Movie Watched: 117, Ratio: 0.9140625, # of Views 21646
+Category: Cat Title: Charlie shares toy with Xena, Movie Length: 126, Movie Watched: 117, Ratio: 0.9285714285714286, # of Views 26216
+Category: Cat Title: Chole catches Rocco, Movie Length: 125, Movie Watched: 112, Ratio: 0.896, # of Views 67383
+
+ End Time: 89447880377507
+
+
+Movie Sorting Length : Thread 2, Start Time: 89447878378329
+Category: Dog Title: Oreo hides from Lady, Movie Length: 128, Movie Watched: 128, Ratio: 1.0, # of Views 64099
+Category: Dog Title: Zeus chases Simba, Movie Length: 128, Movie Watched: 99, Ratio: 0.7734375, # of Views 74962
+Category: Sports Title: Loki goes fishing with Peanut, Movie Length: 127, Movie Watched: 110, Ratio: 0.8661417322834646, # of Views 45612
+
+ End Time: 89447880648595
+
+
+Movie Sorting Length : Thread 1, Start Time: 89447878649503
+Category: Dog Title: Henry plays with Sylvester, Movie Length: 129, Movie Watched: 111, Ratio: 0.8604651162790697, # of Views 4902
+Category: Sports Title: Kobe cycles with Otis, Movie Length: 129, Movie Watched: 104, Ratio: 0.8062015503875969, # of Views 77058
+Category: Cat Title: Tiger chases Boomer, Movie Length: 129, Movie Watched: 103, Ratio: 0.7984496124031008, # of Views 38599
+
+ End Time: 89447880376120
+
+
+Movie Sorting Ratio : Thread 0, Start Time: 89447880454967
+Category: Sports Title: Peanut swims with Buddy, Movie Length: 97, Movie Watched: 97, Ratio: 1.0, # of Views 69628
+Category: Dog Title: Chester has dinner with Belle, Movie Length: 54, Movie Watched: 54, Ratio: 1.0, # of Views 35183
+Category: Cat Title: Angel fights with Coco, Movie Length: 63, Movie Watched: 62, Ratio: 0.9841269841269841, # of Views 55931
+
+ End Time: 89447883540833
+
+
+Movie Sorting Ratio : Thread 1, Start Time: 89447880871451
+Category: Sports Title: Teddy plays football with Xena, Movie Length: 100, Movie Watched: 100, Ratio: 1.0, # of Views 50054
+Category: Dog Title: Dexter bites Casper, Movie Length: 54, Movie Watched: 54, Ratio: 1.0, # of Views 70474
+Category: Cat Title: Lucy has breakfast with Rex, Movie Length: 35, Movie Watched: 35, Ratio: 1.0, # of Views 64366
+
+ End Time: 89447883767064
+
+
+Movie Sorting Ratio : Thread 2, Start Time: 89447880710565
+Category: Dog Title: Oreo hides from Lady, Movie Length: 128, Movie Watched: 128, Ratio: 1.0, # of Views 64099
+Category: Sports Title: Hank plays tennis with Rex, Movie Length: 119, Movie Watched: 119, Ratio: 1.0, # of Views 10777
+Category: Sports Title: Jax plays soccer with Chico, Movie Length: 74, Movie Watched: 74, Ratio: 1.0, # of Views 51481
+
+ End Time: 89447883821951
+
+
+Movie Sorting Watched : Thread 1, Start Time: 89447883846134
+Category: Dog Title: Thor shares toy with Sam, Movie Length: 126, Movie Watched: 125, Ratio: 0.9920634920634921, # of Views 77588
+Category: Sports Title: Jack snowboards with Gizmo, Movie Length: 124, Movie Watched: 122, Ratio: 0.9838709677419355, # of Views 49131
+Category: Cat Title: Fraidy kisses Prince, Movie Length: 120, Movie Watched: 117, Ratio: 0.975, # of Views 75478
+
+ End Time: 89447885706003
+
+
+Movie Sorting Watched : Thread 2, Start Time: 89447884083586
+Category: Dog Title: Oreo hides from Lady, Movie Length: 128, Movie Watched: 128, Ratio: 1.0, # of Views 64099
+Category: Sports Title: Hank plays tennis with Rex, Movie Length: 119, Movie Watched: 119, Ratio: 1.0, # of Views 10777
+Category: Cat Title: Lady shares lunch with Jackson, Movie Length: 120, Movie Watched: 115, Ratio: 0.9583333333333334, # of Views 58079
+
+ End Time: 89447886330069
+
+
+Movie Sorting Watched : Thread 0, Start Time: 89447883622093
+Category: Dog Title: Winston eats lunch with Simba, Movie Length: 123, Movie Watched: 121, Ratio: 0.983739837398374, # of Views 74234
+Category: Cat Title: Charlie shares toy with Xena, Movie Length: 126, Movie Watched: 117, Ratio: 0.9285714285714286, # of Views 26216
+Category: Dog Title: Duke hides toy from Simba, Movie Length: 128, Movie Watched: 117, Ratio: 0.9140625, # of Views 21646
+
+ End Time: 89447886336386
+
+
+Movie Sorting # of Views : Thread 2, Start Time: 89447886428001
+Category: Cat Title: Puffball fights with Rex, Movie Length: 87, Movie Watched: 62, Ratio: 0.7126436781609196, # of Views 99326
+Category: Cat Title: Max chases Rusty, Movie Length: 82, Movie Watched: 59, Ratio: 0.7195121951219512, # of Views 98612
+Category: Sports Title: Zeus plays volleyball with Loki, Movie Length: 68, Movie Watched: 42, Ratio: 0.6176470588235294, # of Views 97746
+
+ End Time: 89447887629650
+
+
+Movie Sorting # of Views : Thread 0, Start Time: 89447886480114
+Category: Sports Title: Lola plays volleyball with Baxter, Movie Length: 103, Movie Watched: 90, Ratio: 0.8737864077669902, # of Views 99366
+Category: Cat Title: Puffball hides from Zeke, Movie Length: 86, Movie Watched: 77, Ratio: 0.8953488372093024, # of Views 98779
+Category: Cat Title: Chole hides toy from Milo, Movie Length: 96, Movie Watched: 86, Ratio: 0.8958333333333334, # of Views 98350
+
+ End Time: 89447887630102
+
+
+Movie Sorting # of Views : Thread 1, Start Time: 89447885784212
+Category: Sports Title: Bandit catches for Rudy, Movie Length: 93, Movie Watched: 88, Ratio: 0.946236559139785, # of Views 98951
+Category: Sports Title: Scout catches for Oreo, Movie Length: 94, Movie Watched: 81, Ratio: 0.8617021276595744, # of Views 97757
+Category: Cat Title: Lucy eats dinner with Chance, Movie Length: 61, Movie Watched: 58, Ratio: 0.9508196721311475, # of Views 95252
+
+ End Time: 89447887628976
+
+
+Total of videos size: 300
+
+Movie Category Name, Start Time: 89447887925507
+Category: Cat Title: Tiger kisses Ziggy, Movie Length: 46, Movie Watched: 32, Ratio: 0.6956521739130435, # of Views 62796
+Category: Cat Title: Princess hides toy from Samson, Movie Length: 68, Movie Watched: 41, Ratio: 0.6029411764705882, # of Views 43478
+Category: Cat Title: Lucy eats dinner with Chance, Movie Length: 61, Movie Watched: 58, Ratio: 0.9508196721311475, # of Views 95252
+
+ End Time: 89447889816166
+
+Movie Sorting Name, Start Time: 89447889850245
+Category: Dog Title: Ace chases Casper, Movie Length: 93, Movie Watched: 76, Ratio: 0.8172043010752689, # of Views 51605
+Category: Sports Title: Ace plays quidditch with Beau, Movie Length: 72, Movie Watched: 67, Ratio: 0.9305555555555556, # of Views 2090
+Category: Cat Title: Angel fights with Coco, Movie Length: 63, Movie Watched: 62, Ratio: 0.9841269841269841, # of Views 55931
+
+ End Time: 89447891393137
+
+Movie Sorting Length, Start Time: 89447891424543
+Category: Dog Title: Henry plays with Sylvester, Movie Length: 129, Movie Watched: 111, Ratio: 0.8604651162790697, # of Views 4902
+Category: Sports Title: Kobe cycles with Otis, Movie Length: 129, Movie Watched: 104, Ratio: 0.8062015503875969, # of Views 77058
+Category: Cat Title: Tiger chases Boomer, Movie Length: 129, Movie Watched: 103, Ratio: 0.7984496124031008, # of Views 38599
+
+ End Time: 89447892689094
+
+Movie Sorting Ratio, Start Time: 89447892721888
+Category: Dog Title: Oreo hides from Lady, Movie Length: 128, Movie Watched: 128, Ratio: 1.0, # of Views 64099
+Category: Sports Title: Hank plays tennis with Rex, Movie Length: 119, Movie Watched: 119, Ratio: 1.0, # of Views 10777
+Category: Sports Title: Teddy plays football with Xena, Movie Length: 100, Movie Watched: 100, Ratio: 1.0, # of Views 50054
+
+ End Time: 89447894375838
+
+Movie Sorting Watched, Start Time: 89447894409371
+Category: Dog Title: Oreo hides from Lady, Movie Length: 128, Movie Watched: 128, Ratio: 1.0, # of Views 64099
+Category: Dog Title: Thor shares toy with Sam, Movie Length: 126, Movie Watched: 125, Ratio: 0.9920634920634921, # of Views 77588
+Category: Sports Title: Jack snowboards with Gizmo, Movie Length: 124, Movie Watched: 122, Ratio: 0.9838709677419355, # of Views 49131
+
+ End Time: 89447895334027
+
+Movie Sorting # of Views, Start Time: 89447895385199
+Category: Sports Title: Lola plays volleyball with Baxter, Movie Length: 103, Movie Watched: 90, Ratio: 0.8737864077669902, # of Views 99366
+Category: Cat Title: Puffball fights with Rex, Movie Length: 87, Movie Watched: 62, Ratio: 0.7126436781609196, # of Views 99326
+Category: Sports Title: Bandit catches for Rudy, Movie Length: 93, Movie Watched: 88, Ratio: 0.946236559139785, # of Views 98951
+
+ End Time: 89447896357827
+
+Process finished with exit code 0
+

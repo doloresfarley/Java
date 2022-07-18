@@ -1,0 +1,5 @@
+Unzip file
+On command line cd to directory
+Run : mvn clean install
+Run:
+ java -cp target/loan-app-1.0-SNAPSHOT.jar com.affirm.app.App
